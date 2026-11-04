@@ -1,7 +1,7 @@
 {
   "url": "https://github.com/Uesugi-nuvole/SESR_submit",
   "remote": "https://github.com/Uesugi-nuvole/SESR_submit.git",
-  "visibility": "private",
+  "visibility": "public",
   "release_tag": "submission-2026",
   "release_url": "https://github.com/Uesugi-nuvole/SESR_submit/releases/tag/submission-2026"
 }
