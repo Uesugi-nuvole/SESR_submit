@@ -7,7 +7,7 @@
 |---|---|
 |deployment/v7|部署源码、固定输入、权重、软件参考、XSA/bit/MMI 和构建入口|
 |deployment/run1|实际运行的 ELF 与 map|
-|deployment/current_source_snapshot|当前 IDE 源码快照；不承诺与 run1 ELF 构建瞬间完全一致|
+|deployment/current_source_snapshot|当前 IDE 源码快照；实板运行文件归档于 deployment/run1|
 |host|SGM 与补洞网络的软件代码、模型权重|
 |hardware/rtl|硬件 RTL；完整 Vivado 工程另外提供|
 |software/super_resolution|超分平台驱动及软件源代码|
@@ -18,4 +18,4 @@
 
 先阅读 docs/reproduce.md。完整 Vivado 工程约 1.33 GB，不包含在比赛代码压缩包内，通过 GitHub Releases 附件提供：[下载完整 Vivado 工程](https://github.com/Uesugi-nuvole/SESR_submit/releases/download/submission-2026/49142_sesr_accel_vivado.zip)，校验值见 docs/vivado_download.md。
 
-本次证据为一个 128×128 裁剪样本，不代表整幅图实时处理或全数据集评测。板端完成运行并改善原 SGM 的 GT 指标，但与软件部署参考尚未逐元素对齐。
+板端验证使用一个 128×128 裁剪样本，完成整网运行与 DDR 回读，并改善原 SGM 的 GT 指标。任务精度与板端/软件部署参考的数值差异详见 docs/validation.md。

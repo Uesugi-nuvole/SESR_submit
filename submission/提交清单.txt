@@ -7,5 +7,5 @@ GitHub：https://github.com/Uesugi-nuvole/SESR_submit
 发布附件：https://github.com/Uesugi-nuvole/SESR_submit/releases/tag/submission-2026
 完整 Vivado 工程由 Releases 独立分发，不计入代码 RAR。
 
-需团队完成：确认评委可访问仓库；选定作品照片；提交签字承诺及使用授权书（个人材料仅本地保管）；在比赛网站实际上传并确认提交结果。
-本目录整理与 GitHub 发布不代表已完成比赛网站提交。
+网站提交步骤：上传作品照片、技术报告、代码 RAR、演示视频和签字授权书，填写公开 GitHub 地址并确认提交结果。签字授权书保存在本地 private_local 目录。
+仓库及 Releases 已公开，可供评委访问。
