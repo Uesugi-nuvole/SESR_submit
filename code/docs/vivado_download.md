@@ -1,7 +1,7 @@
 # 完整 Vivado 工程下载
 
-GitHub 仓库地址：待上传后填写。
-GitHub Releases 附件地址：待上传后填写。
+GitHub 仓库地址：https://github.com/Uesugi-nuvole/SESR_submit
+GitHub Releases 附件地址：https://github.com/Uesugi-nuvole/SESR_submit/releases/download/submission-2026/sesr_accel_vivado.zip
 附件名：sesr_accel_vivado.zip
 文件大小：1333414810 bytes
 SHA256：9ee4561c7fe157120603c7708fe932c7162c0528f69f87d276576dd4eb393a7a

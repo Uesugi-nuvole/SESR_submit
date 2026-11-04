@@ -1,5 +1,11 @@
 比赛提交材料清单
 
-已有：已创建并关联私有空仓库 https://github.com/Uesugi-nuvole/SESR_submit ；V7 代码 RAR、补充版技术报告 Word/PDF、演示视频 V2、硬件截图、板端原始数据及结果。
-待完成：发布代码及 Releases 附件；补回报告与 README 中的实际链接；确认视频最终版本和作品照片选择；签字授权书由队员准备（仅留本地 private_local）。
-当前没有执行比赛网站上传、Git push 或公开发布。
+技术报告：reports/SESR_Technical_Report.pdf，配套 Word 同目录。
+代码：submission/SESR_Code.rar，RAR 格式、200 MB 内；包含 SGM、补洞网络源码与 epoch 36 权重、固定样本部署、RTL 和配套平台文件。
+演示视频：media/video/SESR_Demonstration.mp4，提交页面要求 MP4/AVC H264、3 分钟内、300 MB 内。
+GitHub：https://github.com/Uesugi-nuvole/SESR_submit
+发布附件：https://github.com/Uesugi-nuvole/SESR_submit/releases/tag/submission-2026
+完整 Vivado 工程由 Releases 独立分发，不计入代码 RAR。
+
+需团队完成：确认评委可访问仓库；选定作品照片；提交签字承诺及使用授权书（个人材料仅本地保管）；在比赛网站实际上传并确认提交结果。
+本目录整理与 GitHub 发布不代表已完成比赛网站提交。

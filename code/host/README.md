@@ -16,4 +16,4 @@ SGM 使用 NumPy、OpenCV、Numba、SciPy；补洞网络还使用 PyTorch、torc
 
 补洞网络入口位于 depth_completion，评估入口为 run_eval.py，默认 epoch 36。主机算法入口与 VU440 固定样本部署是两个阶段；从新图像重新导出板端嵌入资源的完整工具链尚未闭合，不能声称任意输入一键上板。
 
-固定样本无需重新训练即可离线验证，见 ../../docs/reproduce.md；实板数据见 ../../evidence/run1。
+固定样本无需重新训练即可离线验证，见 ../docs/reproduce.md；实板数据见 ../evidence/run1。

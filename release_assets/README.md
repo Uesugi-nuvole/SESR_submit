@@ -1,5 +1,9 @@
-# GitHub Releases 附件
+# 发布附件
 
-本地 sesr_accel_vivado.zip 为完整 Vivado 原始工程压缩包。与 ../submission/SESR_Code.rar、../media/video/SESR_Demonstration.mp4 分别作为发布附件，上传后记录真实下载链接。当前尚未上传。
+[GitHub Releases](https://github.com/Uesugi-nuvole/SESR_submit/releases/tag/submission-2026)
 
-校验值见 ../submission/file_manifest.json。
+- [完整 Vivado 工程](https://github.com/Uesugi-nuvole/SESR_submit/releases/download/submission-2026/sesr_accel_vivado.zip)
+- [比赛代码 RAR](https://github.com/Uesugi-nuvole/SESR_submit/releases/download/submission-2026/SESR_Code.rar)
+- [演示视频](https://github.com/Uesugi-nuvole/SESR_submit/releases/download/submission-2026/SESR_Demonstration.mp4)
+
+这些大文件不放普通 Git 历史；校验值见 ../submission/file_manifest.json。

@@ -1,4 +1,4 @@
-# SGM 视差补全系统 V7
+# SGM 视差补全系统
 
 左右图像在电脑端执行 SGM；VU440 上的 MicroBlaze 与 NPU 协同执行补洞网络，最终视差存入 DDR，由调试接口读回。提交包以 V7 固定样本部署及真实板端结果为核心。
 
@@ -16,6 +16,6 @@
 |tools|文件完整性校验和固定样本 GT 评价|
 |licenses|第三方许可证，另保留各源码目录内许可证|
 
-先阅读 docs/reproduce.md。完整 Vivado 工程约 1.33 GB，不包含在比赛代码压缩包内，计划通过同一 GitHub 仓库的 Releases 附件提供；真实下载地址见 docs/vivado_download.md，上传前标为待补。
+先阅读 docs/reproduce.md。完整 Vivado 工程约 1.33 GB，不包含在比赛代码压缩包内，通过 GitHub Releases 附件提供：[下载完整 Vivado 工程](https://github.com/Uesugi-nuvole/SESR_submit/releases/download/submission-2026/sesr_accel_vivado.zip)，校验值见 docs/vivado_download.md。
 
 本次证据为一个 128×128 裁剪样本，不代表整幅图实时处理或全数据集评测。板端完成运行并改善原 SGM 的 GT 指标，但与软件部署参考尚未逐元素对齐。

@@ -1,5 +1,10 @@
 [
   {
+    "file": ".gitattributes",
+    "bytes": 80,
+    "sha256": "e9ff105d4c865333596115aa4a145685ecab6f892d3b9c7a0dc93d2a587aaf76"
+  },
+  {
     "file": ".gitignore",
     "bytes": 234,
     "sha256": "79c5d7ff3d0a66398a136270d7bbb28dea4eb3296bd4d41db4faf8c7d599d69f"
@@ -526,8 +531,8 @@
   },
   {
     "file": "code/deployment/v7/original_platform/BIT_DOWNLOAD.md",
-    "bytes": 107,
-    "sha256": "f2ef241fe5d7661fc60f3d7f143733bb4363c087b296c28fbd604e633ff91956"
+    "bytes": 196,
+    "sha256": "25c7dec4b5957d6b487f256ea893c2b8a711c7c25e1a487635b49d2673ec890f"
   },
   {
     "file": "code/deployment/v7/original_platform/system_wrapper.mmi",
@@ -1076,8 +1081,8 @@
   },
   {
     "file": "code/docs/vivado_download.md",
-    "bytes": 665,
-    "sha256": "282a883622e5b6cc3ddbb70c125182e17d5107c19595fa29359b14e742cd6415"
+    "bytes": 767,
+    "sha256": "e9c42a0a9ab1d5ce94fb58c34332ac27bb108fa8818fb0ca164d5a872a03df66"
   },
   {
     "file": "code/evidence/run1/board_compare_run1.json",
@@ -1380,6 +1385,11 @@
     "sha256": "3e159fa65dc1493bdf82e9f1f50d3714e84c84d51ab7f92847d5040b6572853e"
   },
   {
+    "file": "code/host/README.md",
+    "bytes": 1474,
+    "sha256": "3527aa0fef2ec8505be8fb0bff37ae8827e6d3ced4ef72a2e2a8c1b0d04e14c0"
+  },
+  {
     "file": "code/host/sgm/sgm.py",
     "bytes": 39452,
     "sha256": "9ee8de8ee5d549c93bd89676bfe1453f30b7e792099989071d9cde5a18b8d97e"
@@ -1396,13 +1406,13 @@
   },
   {
     "file": "code/provenance/package_hashes.json",
-    "bytes": 47144,
-    "sha256": "17494f0d39459d8cbdf78482a308f49bb7993ceedafbb5ac3fbfe69daebfe504"
+    "bytes": 47233,
+    "sha256": "97862abc4c41480ee8c0c7d5c3707af7f4d3215630e9173bee3def47e2925f09"
   },
   {
     "file": "code/README.md",
-    "bytes": 1450,
-    "sha256": "0abe2a6f420602492da363ea829802b224fbcab58983c78f0892f904b87e00f3"
+    "bytes": 1525,
+    "sha256": "550c3d4c9a3bcb8253632171d86b6bab441cd26b2416efcdb2c9ccb80f9c0060"
   },
   {
     "file": "code/requirements.txt",
@@ -1921,8 +1931,8 @@
   },
   {
     "file": "hardware/README.md",
-    "bytes": 432,
-    "sha256": "b48d9f82688db94a27b8101ef8b332d2e503063881ac1a441b8af28ed1d06c48"
+    "bytes": 518,
+    "sha256": "f13711fd071b3b8089eef4e1df620e1c3e152f2a1020c322811bec02d0497707"
   },
   {
     "file": "media/figures/platform_block_design.png",
@@ -1936,13 +1946,13 @@
   },
   {
     "file": "README.md",
-    "bytes": 1755,
-    "sha256": "76f4c0837ada2ee16ec1fd0517b6dee5b0a543409e1ab55b6fccae9b0f30abfd"
+    "bytes": 2169,
+    "sha256": "1bf744d078af301eff3c222e2c8ee741828dc6a98ce7328f300a9fc42d8cbe71"
   },
   {
     "file": "release_assets/README.md",
-    "bytes": 308,
-    "sha256": "1b9f597e0cb53acd4bd845402686e26d253cf7a5e4bad823b929173efa140639"
+    "bytes": 572,
+    "sha256": "a38ab18c6d6eec676e9406dcf7c898c1628f81f326c48c79d011713071052231"
   },
   {
     "file": "release_assets/sesr_accel_vivado.zip",
@@ -1951,28 +1961,28 @@
   },
   {
     "file": "reports/SESR_Technical_Report.docx",
-    "bytes": 4221493,
-    "sha256": "751ca0468a4086223320accaff1ee355c719e6f7c54513180e61c89f7cbca437"
+    "bytes": 4221693,
+    "sha256": "dd79df970d4bd65e195e982df2474a85875e56a0913243c47cb1104287b92ac9"
   },
   {
     "file": "reports/SESR_Technical_Report.pdf",
-    "bytes": 3066677,
-    "sha256": "68edc17376f11da568565ddfb555835e0d8a43d7717fa47a31307309dc2e2edc"
+    "bytes": 3067528,
+    "sha256": "7078de99eaf245c46a4bcbd4e2fb48cbd9bf3b2c1a6ecaad93ee4d5b0a1da6fc"
   },
   {
     "file": "submission/repository_status.json",
-    "bytes": 200,
-    "sha256": "66d3411711344e0e97a7a42858c0bc7f051da72a10e8a8470f2f7e19c6b3af64"
+    "bytes": 286,
+    "sha256": "9d8949ff6fe84df2219ed2d99ae64dc9dce2ade07a4bbc4c79fdb13a8079f69b"
   },
   {
     "file": "submission/SESR_Code.rar",
-    "bytes": 56937903,
-    "sha256": "9a36fc3a7fe82ac231aa70fca2d62fc82b83245858303a27339a1c8acd89dd38"
+    "bytes": 56937397,
+    "sha256": "90d169127f3b9ae3f2a7e6545e82b42bbf2becea4b276bb6f239cf4e6593ca48"
   },
   {
     "file": "submission/提交清单.txt",
-    "bytes": 506,
-    "sha256": "d57a281d84056932fa138b774c63c502f6db28762a67953344700622067f7ef0"
+    "bytes": 872,
+    "sha256": "8f6926e3c36794b9768e6ff3087ca86d3bab9cf3c1ac6698344d639918992ead"
   },
   {
     "file": "verification/README.md",
