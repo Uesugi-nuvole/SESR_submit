@@ -5,11 +5,11 @@ SGM 视差补全 FPGA 竞赛提交材料。电脑端运行 SGM，VU440 上的 Mi
 ## 提交文件与下载
 |材料|位置|
 |---|---|
-|完整代码 RAR（含配套 bit）|[SESR_Code.rar](https://github.com/Uesugi-nuvole/SESR_submit/releases/download/submission-2026/SESR_Code.rar)|
-|完整 Vivado 工程|[sesr_accel_vivado.zip](https://github.com/Uesugi-nuvole/SESR_submit/releases/download/submission-2026/sesr_accel_vivado.zip)|
-|演示视频|[SESR_Demonstration.mp4](https://github.com/Uesugi-nuvole/SESR_submit/releases/download/submission-2026/SESR_Demonstration.mp4)|
-|技术报告 PDF|[SESR_Technical_Report.pdf](reports/SESR_Technical_Report.pdf)|
-|可编辑技术报告|[SESR_Technical_Report.docx](reports/SESR_Technical_Report.docx)|
+|完整代码 RAR（含配套 bit）|[49142_SESR_Code.rar](https://github.com/Uesugi-nuvole/SESR_submit/releases/download/submission-2026/49142_SESR_Code.rar)|
+|完整 Vivado 工程|[49142_sesr_accel_vivado.zip](https://github.com/Uesugi-nuvole/SESR_submit/releases/download/submission-2026/49142_sesr_accel_vivado.zip)|
+|演示视频|[49142_SESR_Demonstration.mp4](https://github.com/Uesugi-nuvole/SESR_submit/releases/download/submission-2026/49142_SESR_Demonstration.mp4)|
+|技术报告 PDF|[49142_SESR_Technical_Report.pdf](reports/49142_SESR_Technical_Report.pdf)|
+|可编辑技术报告|[49142_SESR_Technical_Report.docx](reports/49142_SESR_Technical_Report.docx)|
 
 [全部发布附件](https://github.com/Uesugi-nuvole/SESR_submit/releases/tag/submission-2026)。文件大小和 SHA256 见 submission/file_manifest.json。
 

@@ -531,8 +531,8 @@
   },
   {
     "file": "code/deployment/v7/original_platform/BIT_DOWNLOAD.md",
-    "bytes": 196,
-    "sha256": "25c7dec4b5957d6b487f256ea893c2b8a711c7c25e1a487635b49d2673ec890f"
+    "bytes": 208,
+    "sha256": "a6a46bc022922667b9e183f3e345f3b3ccece07a2e87d362117c4c39fb000a4d"
   },
   {
     "file": "code/deployment/v7/original_platform/system_wrapper.mmi",
@@ -1081,8 +1081,8 @@
   },
   {
     "file": "code/docs/vivado_download.md",
-    "bytes": 767,
-    "sha256": "e9c42a0a9ab1d5ce94fb58c34332ac27bb108fa8818fb0ca164d5a872a03df66"
+    "bytes": 779,
+    "sha256": "f9b9d6aa3a8b25c17af7f88319efb1a1a54473c4ca61f6cd8d2d3176135c3b36"
   },
   {
     "file": "code/evidence/run1/board_compare_run1.json",
@@ -1406,13 +1406,13 @@
   },
   {
     "file": "code/provenance/package_hashes.json",
-    "bytes": 47233,
-    "sha256": "97862abc4c41480ee8c0c7d5c3707af7f4d3215630e9173bee3def47e2925f09"
+    "bytes": 47235,
+    "sha256": "024a6d0de57c1da18878b505eac8c20ca83442028dd050dcedbd0ff51a2fad41"
   },
   {
     "file": "code/README.md",
-    "bytes": 1525,
-    "sha256": "550c3d4c9a3bcb8253632171d86b6bab441cd26b2416efcdb2c9ccb80f9c0060"
+    "bytes": 1531,
+    "sha256": "f48a278ea8cd9e8c56f4a3c21051df0c23fbbd9df18bc654a4a7dfc63178bc79"
   },
   {
     "file": "code/requirements.txt",
@@ -1931,8 +1931,8 @@
   },
   {
     "file": "hardware/README.md",
-    "bytes": 518,
-    "sha256": "f13711fd071b3b8089eef4e1df620e1c3e152f2a1020c322811bec02d0497707"
+    "bytes": 536,
+    "sha256": "71351e9991c4b0e6a65ea65f66258ff5825a3efdcca4f94247279d4cfa5cde62"
   },
   {
     "file": "media/figures/platform_block_design.png",
@@ -1940,34 +1940,39 @@
     "sha256": "6fc4ac20055cee8d1e644a66d8e8a7cc56166318a2965629ef98da4dda7bda2a"
   },
   {
-    "file": "media/video/SESR_Demonstration.mp4",
+    "file": "media/video/49142_SESR_Demonstration.mp4",
     "bytes": 17038471,
     "sha256": "5e1a21cfb7613816d5bfac9b135b79e05e7be084fa40166cce5817765d691b0f"
   },
   {
     "file": "README.md",
-    "bytes": 2169,
-    "sha256": "1bf744d078af301eff3c222e2c8ee741828dc6a98ce7328f300a9fc42d8cbe71"
+    "bytes": 2229,
+    "sha256": "e90646b915e65ba4aad8aa70f7a161a1c29a4817b291441b32265398916a4379"
   },
   {
-    "file": "release_assets/README.md",
-    "bytes": 572,
-    "sha256": "a38ab18c6d6eec676e9406dcf7c898c1628f81f326c48c79d011713071052231"
-  },
-  {
-    "file": "release_assets/sesr_accel_vivado.zip",
+    "file": "release_assets/49142_sesr_accel_vivado.zip",
     "bytes": 1333414810,
     "sha256": "9ee4561c7fe157120603c7708fe932c7162c0528f69f87d276576dd4eb393a7a"
   },
   {
-    "file": "reports/SESR_Technical_Report.docx",
-    "bytes": 4221693,
-    "sha256": "dd79df970d4bd65e195e982df2474a85875e56a0913243c47cb1104287b92ac9"
+    "file": "release_assets/README.md",
+    "bytes": 590,
+    "sha256": "5b84c1af6d9b937bcef19576b608f41b5b8590aca357396eb41ae448050a2c39"
   },
   {
-    "file": "reports/SESR_Technical_Report.pdf",
-    "bytes": 3067528,
-    "sha256": "7078de99eaf245c46a4bcbd4e2fb48cbd9bf3b2c1a6ecaad93ee4d5b0a1da6fc"
+    "file": "reports/49142_SESR_Technical_Report.docx",
+    "bytes": 4221699,
+    "sha256": "49a38b7f6a9bddf0cd976635e2868af01b36c5f0af88a25012f7481abcd95f2e"
+  },
+  {
+    "file": "reports/49142_SESR_Technical_Report.pdf",
+    "bytes": 3067837,
+    "sha256": "6b84bacedf93cc6baf61160b6225e35669f1a9b999031d70176bf05b535ad9ef"
+  },
+  {
+    "file": "submission/49142_SESR_Code.rar",
+    "bytes": 56937419,
+    "sha256": "515192cd98bc43e27cdcb5c4598cc2fd5f2ec3493fc472ec330929136475ec4b"
   },
   {
     "file": "submission/repository_status.json",
@@ -1975,14 +1980,9 @@
     "sha256": "2328e7b7bc417a8f20f13247bfce5ce25dfd6a67a96282ef03a61957297b8598"
   },
   {
-    "file": "submission/SESR_Code.rar",
-    "bytes": 56937397,
-    "sha256": "90d169127f3b9ae3f2a7e6545e82b42bbf2becea4b276bb6f239cf4e6593ca48"
-  },
-  {
     "file": "submission/提交清单.txt",
-    "bytes": 872,
-    "sha256": "8f6926e3c36794b9768e6ff3087ca86d3bab9cf3c1ac6698344d639918992ead"
+    "bytes": 890,
+    "sha256": "b8b7997c2e38999bd9c7284f6bbf7f107db67decf7b8dc068951013c021f118f"
   },
   {
     "file": "verification/README.md",
