@@ -1,0 +1,29 @@
+{
+  "shape": [
+    1,
+    1,
+    128,
+    128
+  ],
+  "dtype": "float32",
+  "atol": 1e-05,
+  "rtol": 0.0001,
+  "actual": {
+    "file": "host_daylight_final.bin",
+    "endian": "little",
+    "sha256": "65d0ecaebc5fe127f8650e904e393a8ee0650c77c05781b430c9cd36ed5a1fbe",
+    "nonfinite": 0
+  },
+  "reference": {
+    "file": "deployment_postscale_final_le_f32.bin",
+    "endian": "little",
+    "sha256": "65d0ecaebc5fe127f8650e904e393a8ee0650c77c05781b430c9cd36ed5a1fbe",
+    "nonfinite": 0
+  },
+  "status": "pass",
+  "elements": 16384,
+  "outside_tolerance": 0,
+  "mae": 0.0,
+  "max_abs_diff": 0.0,
+  "first_bad_index": null
+}

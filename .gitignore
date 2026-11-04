@@ -1,0 +1,14 @@
+# Local-only submission assets and personal forms
+/release_assets/*
+!/release_assets/README.md
+/submission/*.rar
+/submission/*.zip
+/media/video/*.mp4
+/private_local/
+__pycache__/
+*.pyc
+.metadata/
+.Xil/
+*.bit
+*.dcp
+*.wdb

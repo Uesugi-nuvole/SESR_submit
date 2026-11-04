@@ -1,0 +1,142 @@
+{
+  "sample": "000082_10",
+  "crop_xyxy": [
+    448,
+    128,
+    576,
+    256
+  ],
+  "scope": "One 128x128 crop, not official KITTI score. Same GT-valid pixels for all methods; no per-method masking. SGM missing disparity remains zero and is scored as missing/zero, not excluded. D1-style uses >3px AND >5%; no official interpolation or leaderboard aggregation.",
+  "mask_verified_equals_input_positive": true,
+  "gt_valid_pixels": 10208,
+  "total_pixels": 16384,
+  "input_holes_total": 1209,
+  "sha256": {
+    "sgm": "4de5e1ec74d9373ee7197ad31ffca57a58b5a5c604eff1a1d7f52e2cb39b1ea9",
+    "software_pytorch": "a016e142cd48ef2af635d9393c63a06a742907cc4499e1a297ac5617867e579a",
+    "software_deployment": "65d0ecaebc5fe127f8650e904e393a8ee0650c77c05781b430c9cd36ed5a1fbe",
+    "board_run1": "14ce70bb06cdb78dbd29b22a8098c03cee579a5c99f05d753309401b879113cd"
+  },
+  "rows": [
+    {
+      "region": "all_gt_valid",
+      "method": "sgm",
+      "pixels": 10208,
+      "mae_px": 2.211483946414577,
+      "rmse_px": 4.805545636432291,
+      "d1_style_pct": 15.732758620689655,
+      "bad3_pct": 15.732758620689655,
+      "positive_prediction_pct": 95.58189655172413
+    },
+    {
+      "region": "all_gt_valid",
+      "method": "software_pytorch",
+      "pixels": 10208,
+      "mae_px": 0.7595673681333147,
+      "rmse_px": 1.03495584088395,
+      "d1_style_pct": 1.5184169278996864,
+      "bad3_pct": 1.5184169278996864,
+      "positive_prediction_pct": 100.0
+    },
+    {
+      "region": "all_gt_valid",
+      "method": "software_deployment",
+      "pixels": 10208,
+      "mae_px": 0.7573594236074944,
+      "rmse_px": 1.0370442440434648,
+      "d1_style_pct": 1.5478056426332287,
+      "bad3_pct": 1.5478056426332287,
+      "positive_prediction_pct": 100.0
+    },
+    {
+      "region": "all_gt_valid",
+      "method": "board_run1",
+      "pixels": 10208,
+      "mae_px": 0.9458355326731003,
+      "rmse_px": 1.2917639567052148,
+      "d1_style_pct": 3.683385579937304,
+      "bad3_pct": 3.683385579937304,
+      "positive_prediction_pct": 100.0
+    },
+    {
+      "region": "original_holes_gt_valid",
+      "method": "sgm",
+      "pixels": 451,
+      "mae_px": 20.45175651330377,
+      "rmse_px": 20.907186709531167,
+      "d1_style_pct": 100.0,
+      "bad3_pct": 100.0,
+      "positive_prediction_pct": 0.0
+    },
+    {
+      "region": "original_holes_gt_valid",
+      "method": "software_pytorch",
+      "pixels": 451,
+      "mae_px": 0.6795787208624795,
+      "rmse_px": 0.9201363496264621,
+      "d1_style_pct": 1.3303769401330376,
+      "bad3_pct": 1.3303769401330376,
+      "positive_prediction_pct": 100.0
+    },
+    {
+      "region": "original_holes_gt_valid",
+      "method": "software_deployment",
+      "pixels": 451,
+      "mae_px": 0.6656169098390973,
+      "rmse_px": 0.9144092972737581,
+      "d1_style_pct": 1.3303769401330376,
+      "bad3_pct": 1.3303769401330376,
+      "positive_prediction_pct": 100.0
+    },
+    {
+      "region": "original_holes_gt_valid",
+      "method": "board_run1",
+      "pixels": 451,
+      "mae_px": 0.9748701615767046,
+      "rmse_px": 1.2407215889655894,
+      "d1_style_pct": 1.7738359201773837,
+      "bad3_pct": 1.7738359201773837,
+      "positive_prediction_pct": 100.0
+    },
+    {
+      "region": "original_known_gt_valid",
+      "method": "sgm",
+      "pixels": 9757,
+      "mae_px": 1.368359735318233,
+      "rmse_px": 1.98898454805562,
+      "d1_style_pct": 11.837655016910936,
+      "bad3_pct": 11.837655016910936,
+      "positive_prediction_pct": 100.0
+    },
+    {
+      "region": "original_known_gt_valid",
+      "method": "software_pytorch",
+      "pixels": 9757,
+      "mae_px": 0.7632647013217073,
+      "rmse_px": 1.039956684845095,
+      "d1_style_pct": 1.527108742441324,
+      "bad3_pct": 1.527108742441324,
+      "positive_prediction_pct": 100.0
+    },
+    {
+      "region": "original_known_gt_valid",
+      "method": "software_deployment",
+      "pixels": 9757,
+      "mae_px": 0.7616000584040042,
+      "rmse_px": 1.0423640150185978,
+      "d1_style_pct": 1.5578558983294044,
+      "bad3_pct": 1.5578558983294044,
+      "positive_prediction_pct": 100.0
+    },
+    {
+      "region": "original_known_gt_valid",
+      "method": "board_run1",
+      "pixels": 9757,
+      "mae_px": 0.9444934585073193,
+      "rmse_px": 1.2940746197264592,
+      "d1_style_pct": 3.77165112227119,
+      "bad3_pct": 3.77165112227119,
+      "positive_prediction_pct": 100.0
+    }
+  ]
+}

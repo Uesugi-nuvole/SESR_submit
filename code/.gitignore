@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.metadata/
+.Xil/
+*.bit
+*.dcp
+*.wdb
+*.jou
+*.zip
+*.rar

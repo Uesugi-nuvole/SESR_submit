@@ -1,0 +1,8 @@
+Input = 0,
+Split = 1,
+BinaryOp = 2,
+Convolution = 3,
+Padding = 4,
+ReLU = 5,
+PixelShuffle = 6,
+Clip = 7,

@@ -1,0 +1,5 @@
+比赛提交材料清单
+
+已有：已创建并关联私有空仓库 https://github.com/Uesugi-nuvole/SESR_submit ；V7 代码 RAR、补充版技术报告 Word/PDF、演示视频 V2、硬件截图、板端原始数据及结果。
+待完成：发布代码及 Releases 附件；补回报告与 README 中的实际链接；确认视频最终版本和作品照片选择；签字授权书由队员准备（仅留本地 private_local）。
+当前没有执行比赛网站上传、Git push 或公开发布。

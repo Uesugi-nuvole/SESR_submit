@@ -1,0 +1,34 @@
+{
+  "shape": [
+    1,
+    1,
+    128,
+    128
+  ],
+  "dtype": "float32",
+  "atol": 1e-05,
+  "rtol": 0.0001,
+  "actual": {
+    "file": "board_output_run1.bin",
+    "endian": "little",
+    "sha256": "14ce70bb06cdb78dbd29b22a8098c03cee579a5c99f05d753309401b879113cd",
+    "nonfinite": 0
+  },
+  "reference": {
+    "file": "deployment_postscale_final_le_f32.bin",
+    "endian": "little",
+    "sha256": "65d0ecaebc5fe127f8650e904e393a8ee0650c77c05781b430c9cd36ed5a1fbe",
+    "nonfinite": 0
+  },
+  "status": "mismatch",
+  "elements": 16384,
+  "outside_tolerance": 16333,
+  "mae": 0.6854828117939178,
+  "max_abs_diff": 8.900672912597656,
+  "first_bad_index": [
+    0,
+    0,
+    0,
+    0
+  ]
+}

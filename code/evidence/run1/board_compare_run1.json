@@ -1,0 +1,9 @@
+{
+  "dump": "D:\\PROJECTS\\FPGA_SGM\\board_output_run1.bin",
+  "reference": "reference\\deployment_postscale_final_le_f32.bin",
+  "finite": true,
+  "mae": 0.6854828117939178,
+  "max_abs_diff": 8.900672912597656,
+  "different_values": 16384,
+  "outside_tolerance": 16333
+}
